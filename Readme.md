@@ -10,12 +10,12 @@ A python notebook to merge data from branch chambers, with gas concentrations me
 4. Temperatures (air and leaf surface): 2nd Campbell CR1000 datalogger
 
 There are 2 notebooks in this project, and the data is organised as follows:
-1. Raw data is in folder 01_rawdata, and logfiles are in 00_additional_data
-2. 01_convert_files_v0.1.ipynb: This creates daily files in a standard format in the folder 02_preprocessed_data
-3. 02_02_laser_v0.1.ipynb: This merges all data, removes bad data using the logbooks and calculates fluxes in the folder 03_processed_data. Data in this folder is organised as follows:
-  * raw_qc: Data at the raw temporal resolution, merged with the unnecessary parts removed (i.e. stabilisation time of the laser)
-  * 1min: Of each measurement, the last 30-60 measurements in 1s intervals are taken. This folder contains averaged data of each measurement, with calculated fluxes. H2O and CO2 are calibrated to the IRGA data using a linear correlation
-  * stats_calibration: Statistics of the linear correlation done in daily steps. Each has the slope, intercept, R2, p-value, standard error and sample size (n).
+1. Raw data is in folder *01_rawdata*, and logfiles are in *00_additional_data*
+2. **01_convert_files_v0.1.ipynb**: This creates daily files in a standard format in the folder *02_preprocessed_data*
+3. **02_laser_v0.1.ipynb**: This merges all data, removes bad data using the logbooks and calculates fluxes in the folder *03_processed_data*. Data in this folder is organised as follows:
+   * *raw_qc*: Data at the raw temporal resolution, merged with the unnecessary parts removed (i.e. stabilisation time of the laser)
+   * *1min*: Of each measurement, the last 30-60 measurements in 1s intervals are taken. This folder contains averaged data of each measurement, with calculated fluxes. H2O and CO2 are calibrated to the IRGA data using a linear correlation
+   * *stats_calibration*: Statistics of the linear correlation done in daily steps. Each has the slope, intercept, R2, p-value, standard error and sample size (n).
 
 ## Dependencies
 
