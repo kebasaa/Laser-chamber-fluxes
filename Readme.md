@@ -1,7 +1,6 @@
 [![DOI](https://zenodo.org/badge/306300231.svg)](https://zenodo.org/badge/latestdoi/306300231)
 
 # Aerodyne-laser-chamber-fluxes
-===============================
 
 A python notebook to merge data from branch chambers, with gas concentrations measured using the Aerodyne Mini-TILDAS OCS/COS Monitor Laser (https://www.aerodyne.com/wp-content/uploads/2020/05/OCS_COS_Monitor.pdf). Data is gathered as follows:
 
