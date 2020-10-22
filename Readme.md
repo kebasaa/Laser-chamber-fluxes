@@ -2,7 +2,7 @@
 
 # Aerodyne-laser-chamber-fluxes
 
-A python notebook to merge data from branch chambers, with gas concentrations measured using the Aerodyne Mini-TILDAS OCS/COS Monitor Laser (https://www.aerodyne.com/wp-content/uploads/2020/05/OCS_COS_Monitor.pdf). Data is gathered as follows:
+A python notebook to merge data from branch chambers, with gas concentrations of H<sub>2</sub>O, CO<sub>2</sub>, COS and CO measured using the Aerodyne Mini-TILDAS OCS/COS Monitor Laser (https://www.aerodyne.com/wp-content/uploads/2020/05/OCS_COS_Monitor.pdf). Data is gathered as follows:
 
 1. Gas concentrations: Aerodyne's built-in computer
 2. Reference concentration of CO2 and H2O: LI-COR LI-7000 infrared gas analyser (IRGA) which is part of a parallel system
