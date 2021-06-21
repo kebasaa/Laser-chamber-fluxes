@@ -27,7 +27,7 @@ The following python packages are required to read the FLIR files:
 
 ## How to Cite
 
-Jonathan D. Muller, Rafat Qubaja. (2021). Aerodyne-laser-chamber-fluxes: Tool to calculate gas fluxes from branch chambers. DOI: 10.5281/zenodo.4117838  (URL:
+Jonathan D. Muller, Rafat Qubaja. (2021). Aerodyne-laser-chamber-fluxes: Tool to calculate gas fluxes from branch chambers. DOI: 10.5281/zenodo.5006796  (URL:
 <https://doi.org/10.5281/zenodo.5006796>), Python notebook
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5006796.svg)](https://doi.org/10.5281/zenodo.5006796)
