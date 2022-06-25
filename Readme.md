@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4117838.svg)](https://doi.org/10.5281/zenodo.4117838)
 
-# Aerodyne-laser-chamber-fluxes
+# Laser-branch-chamber-fluxes
 
 A python notebook to merge data from branch chambers, with gas concentrations of H<sub>2</sub>O, CO<sub>2</sub>, COS and CO measured using the Aerodyne Mini-TILDAS OCS/COS Monitor Laser (https://www.aerodyne.com/wp-content/uploads/2020/05/OCS_COS_Monitor.pdf). Data is gathered as follows:
 
@@ -27,7 +27,7 @@ The following python packages are required to read the FLIR files:
 
 ## How to Cite
 
-Jonathan D. Muller, Rafat Qubaja. (2021). Aerodyne-laser-chamber-fluxes: Tool to calculate gas fluxes from branch chambers. DOI: 10.5281/zenodo.4117838  (URL:
+Jonathan D. Muller, Rafat Qubaja. (2021). Laser-branch-chamber-fluxes: Tool to calculate gas fluxes from branch chambers. DOI: 10.5281/zenodo.4117838  (URL:
 <https://doi.org/10.5281/zenodo.4117838>), Python notebook
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4117838.svg)](https://doi.org/10.5281/zenodo.4117838)
