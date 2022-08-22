@@ -3,7 +3,7 @@
 
 # Laser-chamber-fluxes
 
-A python notebook to merge data from chamber systems, with gas concentrations of H<sub>2</sub>O, CO<sub>2</sub>, COS and CO measured using the Aerodyne Mini-TILDAS OCS/COS Monitor Laser (https://www.aerodyne.com/wp-content/uploads/2020/05/OCS_COS_Monitor.pdf). Data is gathered as follows:
+A python notebook to merge data from chamber systems, with gas concentrations of H<sub>2</sub>O, CO<sub>2</sub>, COS and CO measured using the Aerodyne Mini-TILDAS OCS/COS Monitor QCL Laser (https://www.aerodyne.com/wp-content/uploads/2021/11/OCS_COS.pdf). Data is gathered as follows:
 
 1. Gas concentrations: Aerodyne's built-in computer
 2. Ambient concentration of CO<sub>2</sub> and H<sub>2</sub>O: LI-COR LI-7000 infrared gas analyser (IRGA) which is part of a parallel system
