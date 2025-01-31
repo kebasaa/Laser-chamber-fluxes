@@ -35,6 +35,15 @@ The following python packages are required to read the FLIR files:
 
 ## How to Cite
 
+Please cite the following publication, which directly uses the code in this repository to calculate fluxes:
+
+Muller et al. (2025). *Leaf carbon monoxide emissions under different drought, heat, and light conditions in the field*. New Phytologist. DOI: https://doi.org/10.1111/nph.20424
+
+[![DOI:10.1111/nph.20424](http://img.shields.io/badge/DOI-10.1111/nph.20424-a7d37d.svg)](https://doi.org/10.1111/nph.20424)
+
+
+Alternatively, you can cite the code only:
+
 Jonathan D. Muller. (2022). Laser-chamber-fluxes: Tool to calculate gas fluxes from chambers concentration measurements. DOI: 10.5281/zenodo.4117838  (URL:
 <https://doi.org/10.5281/zenodo.4117838>), Python notebook
 
